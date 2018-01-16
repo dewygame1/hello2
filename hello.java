@@ -1,9 +1,9 @@
-public class HelloWorld {
+public class Helloearth{
 	
 	public static void main (String[] args){
-		for(int i=0;i<10;i++){
-		System.out.printIn("Hello World");
+		//for(int i=0;i<10;i++){
+		System.out.printIn("Hello earth");
 		// this project writed by java language
-		}
+		//}
 	}
 }
